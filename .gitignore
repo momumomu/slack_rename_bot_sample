@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+.DS_Store
+Lambda_Layer_source_upload/
+upload/
+__pycache__/
